@@ -1,0 +1,96 @@
+---
+title: "B2-Text"
+author: "Ning Ning"
+date: " `r format(Sys.Date(), '%d %B, %Y')`"
+output:
+  revealjs::revealjs_presentation:
+    incremental: true
+    css: writing.css
+    header: |
+    slide_number: 'c/t'
+---
+
+# B2-Text-U1
+
+## Lead in
+### 2.1.1
+
+## Structural Analysis
+### 2.1.2
+
+## Close Reading
+### 2.1.3
+
+## Critical Thinking
+### 2.1.4
+
+# B2-Text-U2
+
+## Lead in
+### 2.2.1
+
+## Structural Analysis
+### 2.2.2
+
+## Close Reading
+### 2.2.3
+
+## Critical Thinking
+### 2.2.4
+
+# B2-Text-U3
+
+## Lead in
+### 2.3.1
+
+## Structural Analysis
+### 2.3.2
+
+## Close Reading
+### 2.3.3
+
+## Critical Thinking
+### 2.3.4
+
+# B2-Text-U4
+
+## Lead in
+### 2.4.1
+
+## Structural Analysis
+### 2.4.2
+
+## Close Reading
+### 2.4.3
+
+## Critical Thinking
+### 2.4.4
+
+# B2-Text-U5
+
+## Lead in
+### 2.5.1
+
+## Structural Analysis
+### 2.5.2
+
+## Close Reading
+### 2.5.3
+
+## Critical Thinking
+### 2.5.4
+
+# B2-Text-U6
+
+## Lead in
+### 2.6.1
+
+## Structural Analysis
+### 2.6.2
+
+## Close Reading
+### 2.6.3
+
+## Critical Thinking
+### 2.6.4
+

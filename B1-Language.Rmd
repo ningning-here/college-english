@@ -1,0 +1,72 @@
+---
+title: "B1-Language"
+author: "Ning Ning"
+date: " `r format(Sys.Date(), '%d %B, %Y')`"
+output:
+  revealjs::revealjs_presentation:
+    incremental: true
+    css: writing.css
+    header: |
+    slide_number: 'c/t'
+---
+
+# B1-Language-U1
+
+## Translation
+
+## Long sentences
+
+## Grammar
+
+## Essay Review
+
+# B1-Language-U2
+
+## Translation
+
+## Long sentences
+
+## Grammar
+
+## Essay Review
+
+# B1-Language-U3
+
+## Translation
+
+## Long sentences
+
+## Grammar
+
+## Essay Review
+
+# B1-Language-U4
+
+## Translation
+
+## Long sentences
+
+## Grammar
+
+## Essay Review
+
+# B1-Language-U5
+
+## Translation
+
+## Long sentences
+
+## Grammar
+
+## Essay Review
+
+# B1-Language-U6
+
+## Translation
+
+## Long sentences
+
+## Grammar
+
+## Essay Review
+

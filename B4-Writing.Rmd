@@ -1,0 +1,48 @@
+---
+title: "B4-Writing"
+author: "Ning Ning"
+date: " `r format(Sys.Date(), '%d %B, %Y')`"
+output:
+  revealjs::revealjs_presentation:
+    incremental: true
+    css: writing.css
+    header: |
+    slide_number: 'c/t'
+---
+
+# B4-Writing-U1
+
+## Writing Technique
+
+## Topic
+
+# B4-Writing-U2
+
+## Writing Technique
+
+## Topic
+
+# B4-Writing-U3
+
+## Writing Technique
+
+## Topic
+
+# B4-Writing-U4
+
+## Writing Technique
+
+## Topic
+
+# B4-Writing-U5
+
+## Writing Technique
+
+## Topic
+
+# B4-Writing-U6
+
+## Writing Technique
+
+## Topic
+

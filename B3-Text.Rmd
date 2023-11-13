@@ -1,0 +1,412 @@
+---
+title: "B3-Text"
+author: "Ning Ning"
+date: " `r format(Sys.Date(), '%d %B, %Y')`"
+output:
+  revealjs::revealjs_presentation:
+    incremental: true
+    css: writing.css
+    header: |
+    slide_number: 'c/t'
+---
+
+# B3-Text-U1
+
+## Lead in
+### Video Sequencing Activity: Watch a video and then arrange them in the correct order.
+
+*Task*
+
+1.  Job and Place Set-Up
+2.  Meet Venue Managers
+3.  Stay Supported and Explore
+4.  Apply and Schedule Interview
+
+*Answer*
+
+-   4213
+
+## Structural Analysis
+###
+*Before the holiday*
+
+*During the holiday*
+
+-   Personal Transformation
+-   Professional Fulfillment
+-   Wanderlust and Independence
+
+*After the holiday*
+
+## Close Reading
+### Discussion and Poster Creation
+
+-   Poster Presentation
+-   Take a picture of your poster and submit
+-   Present your group's poster, explaining the key points.
+-   Always begin each section with a clear and concise TOPIC SENTENCE.
+
+## Critical Thinking
+###
+-   If you had the opportunity, which country would you most like to
+visit for a Working Holiday, and why?
+
+# B3-Text-U2
+
+## Lead in
+###
+1. Discussion: How do famous individuals influence our perceptions of success and happiness?
+2. BACKGROUND: What does the idiom "Keeping up with the Joneses" mean?
+
+## Structural Analysis
+### WWW Structure
+
+-   What
+-   Why
+-   How
+
+---------------
+
+*Practice*
+
+*Read the beginning of each paragraph and fill in the blanks with words from the text.*
+* ONE WORD for each blank, in LOWER CASE*
+
+-   (Para. 1-2) The phrase "keeping up with the Joneses" comes from a
+\_\_\_\_\_\_ \_\_\_\_\_.
+-   (Para. 3-6) The phenomenon occurred because of the \_\_\_\_\_\_.
+-   (Para. 7-10) The author gives \_\_\_\_\_ pieces of advice to address
+"keeping up with the Joneses".
+
+## Close Reading
+###
+
+1. Discussion: According to paragraph 4, what are the influences of the media on individual perspectives and desires?
+
+------------------------------------------------------------------------
+
+2. Matching: Read the following sentences and match each sentence to the
+corresponding advice given in the text. Choose the advice that best
+fits each sentence from the options below.
+
+------------------------------------------------------------------------
+
+*Sentence 1*
+
+- 1.  \_\_\_\_\_\_\_\_ Suggestion to explore inner sources of joy and well-being, rather than relying solely on external circumstances.
+
+Options:
+
+<br/>
+
+A. Shift focus from material possessions\
+B. Define personal definition of "enough"\
+C. Seek contentment from within
+
+------------------------------------------------------------------------
+
+*Sentence 2*
+
+- 2.  \_\_\_\_\_\_\_\_ Strategy to stop valuing material wealth as the primary source of happiness and fulfillment.
+
+Options:
+
+<br/>
+
+A. Shift focus from material possessions\
+B. Define personal definition of "enough"\
+C. Seek contentment from within
+
+------------------------------------------------------------------------
+
+*Sentence 3*
+
+<br/> - 3. \_\_\_\_\_\_\_\_ Approach to determining and embracing a
+point at which one feels satisfied and fulfilled, regardless of external
+standards.
+
+Options:
+
+<br/>
+
+A. Shift focus from material possessions\
+B. Define personal definition of "enough"\
+C. Seek contentment from within
+
+
+------------------------------------------------------------------------
+
+## Critical Thinking
+###
+
+# B3-Text-U3
+
+## Lead in
+### Discussion: If your family members could have superpowers, who would you choose and what superpowers would they have?
+-   Problem Solver
+-   Cooking Wizard
+-   Tech Guru
+-   Green Thumb
+
+## Structural Analysis
+### Narrative Structure
+
+-   Introduction: (Para. 1-2)
+-   Conflict: (Para. 3-5)
+-   Climax: (Para. 6-7)
+-   Turning Point: (Para. 8-10)
+-   Resolution: (Para. 11-16)
+
+------------------------------------------------------------------------
+
+*Fitting into the Text*
+
+*Introduction*
+
+-   (Para. 1-2) Introduce the background, time, place, and main characters of the story. This stage aims to pique the reader's interest and set the stage for the plot.
+
+------------------------------------------------------------------------
+
+*Conflict*
+
+-   (Para. 3-5) Introduce the central problem, challenge, or conflict of
+the story. The protagonist faces difficulties or choices that drive
+the story forward.
+
+------------------------------------------------------------------------
+
+*Climax*
+
+-   (Para. 6-7) The point of highest tension in the story, where the
+protagonist faces a crucial decision or action that reaches the peak
+of the conflict.
+
+------------------------------------------------------------------------
+
+*Turning Point*
+
+-   Turning Point: (Para. 8-10) A pivotal moment in the story, often
+when the protagonist makes a decision or takes action that impacts
+the story's further development.
+
+------------------------------------------------------------------------
+
+*Resolution*
+
+-   (Para. 11-16) Gradual resolution of the story's conflict, with the
+main issue being resolved. The ending can be positive, negative, or
+open-ended.
+
+-------
+
+## Close Reading
+### Multiple Choice Questions
+
+------------------------------------------------------------------------
+
+Question 1. What aspect of family structure does the author contemplate in paragraphs 3-5, comparing Chinese and Western families?
+
+-   [ ] The role of grandparents in a family's daily life and
+responsibilities.
+-   [ ] The challenges of raising a child within a joint family system.
+-   [ ] The influence of cultural expectations on parental caregiving
+roles.
+-   [ ] The importance of sibling relationships in different family
+structures.
+
+------------------------------------------------------------------------
+
+Question 2. In paragraphs 6-7, what issue does the author primarily address concerning gender roles in Chinese and Western families?
+
+-   [ ] The contrasting ways mothers and fathers divide household
+chores.
+-   [ ] The differences in communication styles between fathers and
+daughters.
+-   [ ] The challenges of maintaining work-life balance in different
+cultures.
+-   [ ] The expectations of grandparents in raising children within a
+family.
+
+------------------------------------------------------------------------
+
+Question 3. How does the author resolve the cultural conflict between Chinese and Western family dynamics in paragraphs 8-10?
+
+-   [ ] By embracing the Chinese way of family structure and caregiving.
+-   [ ] By seeking a balance between traditional Chinese and Western
+ideals.
+-   [ ] By rejecting both cultural practices to create a new family
+model.
+-   [ ] By prioritizing extended family influence over individual
+choices.
+
+------------------------------------------------------------------------
+
+## Critical Thinking
+### *Although this passage discusses the differences in familial responsibilities between Eastern and Western cultures,have you identified any commonalities?*
+
+- The importance of family and caregiving roles
+- The need for balance in familial responsibilities
+-  The well-being and upbringing of children
+
+# B3-Text-U4
+
+## Lead in
+###
+1. In-Class survey: Reflect on your own experiences or observations of emerging adulthood.
+2. Concept: Emerging adulthood refers to the period between adolescence and full-fledged adulthood. It's a time of exploration, self-discovery, and transition.
+
+## Structural Analysis
+### Problem-Solving Structure
+
+-   Discover
+-   Describe
+-   Analyze
+-   Address
+
+------------------------------------------------------------------------
+
+*Applying into Text*
+
+-   Discover: Para. 1
+-   Describe: Para. 2-7
+-   Analyze: Para. 8-10
+-   Address: Para. 11-12
+
+## Close Reading
+###
+
+*Discover*
+
+-   Introduction of the Phenomenon (Para. 1)
+-   Today's Twenty-Somethings Comparison
+
+------------------------------------------------------------------------
+
+*Describe*
+
+-   Features of Emerging Adulthood (Para. 2-7)
+-   Identity Explorations (Para. 3)
+-   Instability (Para. 4)
+-   Self-Focus (Para. 5)
+-   Feeling In-Between (Para. 6)
+-   Sense of Possibilities (Para. 7)
+
+------------------------------------------------------------------------
+
+*Analyze*
+
+-   Implications and Significance (Para. 8-10)
+
+------------------------------------------------------------------------
+
+*Address*
+
+-   Recommendations and Concluding Thoughts (Para. 11-12)
+
+------------------------------------------------------------------------
+
+## Critical Thinking
+###
+-   Watch: Observe the behaviors that are indicative of emotional
+maturity.
+-   Choose: Select scenarios or case studies that best illustrate these
+behaviors.
+
+# B3-Text-U5
+
+## Lead in
+### Matching Practice: Watch a video about the top applications of AI and match the descriptions with the corresponding applications.
+
+---
+
+*Question 1*
+Which technology is a suite of tools for creating and training machine learning models, including natural language models?
+
+[ ] Google Cloud Machine Learning
+[ ] Tesla Autopilot
+[ ] OpenAI GPT-4 (ChatGPT)
+
+----------
+
+*Question 2*
+
+Which technology achieves international level 2 vehicle automation with features like Auto Steer, Auto Park, and Traffic-Aware Cruise Control?
+
+[ ] Google Cloud Machine Learning
+[ ] Tesla Autopilot
+[ ] OpenAI GPT-4 (ChatGPT)
+
+---
+
+*Question 3*
+
+Which technology enables human-like conversations and generates
+contextually relevant responses?
+
+[ ] Google Cloud Machine Learning
+[ ] Tesla Autopilot
+[ ] OpenAI GPT-4 (ChatGPT)
+
+## Structural Analysis
+### The IMRaD Structure
+
+-   Introduction
+-   Methods
+-   Results
+-   Discussion
+
+------------------------------------------------------------------------
+
+*IMRaD - Introduction*
+
+-   (para. 1) [Origin and Significance]{.fragment}
+-   (para. 2-3) [Complexity of Go]{.fragment}
+
+------------------------------------------------------------------------
+
+*IMRaD - Methods*
+
+-   (para. 4) [AlphaGo's Innovative Approach]{.fragment}
+-   (para. 5) [Training Process]{.fragment}
+
+------------------------------------------------------------------------
+
+*IMRaD - Results*
+
+-   (para. 6-7) [Testing AlphaGo's Performance]{.fragment}
+
+------------------------------------------------------------------------
+
+*IMRaD - Discussion*
+
+-   (para. 8) [Applications and Future Prospects]{.fragment}
+
+------------------------------------------------------------------------
+
+## Close Reading
+### Multiple-choice Questions
+
+-   Why do AI researchers find Go an irresistible challenge?
+-   Which part of AlphaGo decides its moves?
+-   What has AlphaGo done to get better than top human players?
+-   What's the ultimate goal of developing AI?
+
+------------------------------------------------------------------------
+
+## Critical Thinking
+### What jobs should people do when AI does the easy work?
+
+# B3-Text-U6
+
+## Lead in
+### 3.6.1
+
+## Structural Analysis
+### 3.6.2
+
+## Close Reading
+### 3.6.3
+
+## Critical Thinking
+### 3.6.4
+

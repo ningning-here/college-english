@@ -1,0 +1,42 @@
+/* 移动页码到左上角并增加宽度 */
+.reveal .progress {
+  position: absolute;
+  bottom: 0.5rem; /* 调整垂直位置 */
+  left: 0.5rem; /* 调整水平位置 */
+  width: 3rem; /* 增加宽度，根据需要进行调整 */
+}
+
+.reveal {
+  box-sizing: border-box; /* 确保边框包含在整个容器尺寸内 */
+  border: 5px solid #2c3e50; /* 为边框设置样式，可以选择您喜欢的颜色和尺寸 */
+}
+
+/* 在幻灯片容器外部添加一个额外的边框 */
+.reveal::before {
+  content: ''; /* 伪元素需要内容，即使是空的 */
+  position: absolute; /* 绝对定位，相对于其最近的定位父元素 */
+  top: 5px; /* 将伪元素向上移动，与原始边框贴合 */
+  left: 5px; /* 将伪元素向左移动，与原始边框贴合 */
+  right: 5px; /* 将伪元素向右移动，与原始边框贴合 */
+  bottom: 5px; /* 将伪元素向下移动，与原始边框贴合 */
+  border: 3px dashed #2c3e50; /* 颜色和样式与原始边框相同 */
+  box-sizing: border-box; /* 边框内计算宽高 */
+  pointer-events: none; /* 防止伪元素影响交互 */
+  z-index: 9; /* 确保伪元素在原始边框之下 */
+}
+
+.reveal li {
+  color: #34495e;
+  text-align: left;
+  font-size: 36px;
+  margin-top: 20px; /* 控制标题与上面内容的间距 */
+  margin-left: 20px;
+}
+
+/* 正文文字*/
+.reveal p {
+  color: #34495e; /* 时尚深灰 */
+  font-size: 36px; /* 根据需要调整字体大小 */
+  text-align: left;
+  margin-top: 20px; /* 控制标题与上面内容的间距 */
+}
