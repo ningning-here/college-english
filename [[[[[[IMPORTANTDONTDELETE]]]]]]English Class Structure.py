@@ -48,7 +48,7 @@ for band in range(1, 5):
                     for h2_title in h2_titles:
                         file.write(f"## {h2_title}\n\n")
                 if section_name.endswith("Writing"):
-                    h2_titles = ["Writing Technique", "Topic"]
+                    h2_titles = ["Writing Technique", "Task"]
                     for h2_title in h2_titles:
                         file.write(f"## {h2_title}\n\n")
                 if section_name.endswith("Language"):
