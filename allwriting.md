@@ -4,12 +4,32 @@
 ### 1.4
 ### 1.5
 ### 1.6
-### 2.1
-### 2.2
-### 2.3
-### 2.4
-### 2.5
-### 2.6
+### Living Green
+Is living off the grid a practical solution for environmental sustainability, or is it a self-indulgent lifestyle choice that only benefits privileged individuals with access to resources and technology?
+
+### Love Letter
+Write a love letter to someone or something you admire. Express your feelings and admiration, and include:
+
+- The moment you realized you had a special connection with it.
+- What you admire most about it and what makes it special.
+- A favorite memory you have with it.
+- How it makes you feel and how it's impacted your life.
+- Be sincere and heartfelt. Your letter should be at least 120 words long.
+### The Impact of Magic on Friendship
+Does magic have a positive or negative impact on the formation and maintenance of friendships among students at Hogwarts School of Witchcraft and Wizardry?
+### Personal Statement 
+
+Write a personal statement for your graduate school application that introduces yourself, highlights your academic achievements, research experience, professional goals, and explains why you want to pursue this particular graduate program. The statement should be between 150 to 200 words.
+### Aviation and Space Exploration: Prioritize Development or Reduce Investment? 
+- This essay delves into the debate surrounding aviation and space exploration, questioning whether they represent a quest for uncovering unknown scientific marvels or merely an extravagant waste of resources.
+- This essay will explore the arguments for and against the continuation of investments in aviation and space exploration, considering the potential scientific breakthroughs as well as the financial and ethical implications.
+- Word Count: 120-180 words.
+
+
+
+### Unleashing Innovation: Design Your Breakthrough Invention to Revolutionize Daily Life
+
+In 120-180 words, explore the following aspects. Unleash innovation through your breakthrough invention and address a pressing issue in daily life. Dive into existing solutions, propose enhancements, and discuss the key
 ### The Brave Adventurer
 
 ---
